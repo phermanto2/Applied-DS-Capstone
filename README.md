@@ -1,2 +1,10 @@
 # Applied-DS-Capstone
 Applied DS Capstone Project - Predicting SpaceX Launch (Failure/Success)
+
+In this project, we are going to analyze data from SpaceX, which we will consequently use to build a Machine Learning model to predict whether the launch will be a success or failure.
+
+The project starts with data collection and webscraping, which turns into data wrangling. 
+
+We then analyze the data for patterns and queries in the EDA step, to try to understand the data better.
+
+Finally, four models were fit and compared for their performances. Based on the best accuracy on test data, 
